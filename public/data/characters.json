@@ -1,0 +1,14 @@
+{
+  "config": {
+    "imagesPath": "./img/characters/"
+  },
+  "characters": {
+    "game": { "name": "", "color": "white" },
+    "player": {
+      "name": "You",
+      "style": {
+        "color": "white"
+      }
+    }
+  }
+}
